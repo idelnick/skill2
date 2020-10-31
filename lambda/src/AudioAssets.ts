@@ -14,6 +14,19 @@ let en = {
     startJingle: 'https://s3-eu-west-1.amazonaws.com/alexa.maxi80.com/assets/jingle.m4a'
 };
 
+let de = {
+    card: {
+        title: 'Russisches Radio',
+        text: 'Less bla bla bla, more la la la',
+        image: {
+            largeImageUrl: 'https://alexademo.ninja/skills/logo-512.png',
+            smallImageUrl: 'https://alexademo.ninja/skills/logo-108.png'
+        }
+    },
+    url: 'https://rusradio.hostingradio.ru/rusradio96.aacp',
+    startJingle: 'https://s3-eu-west-1.amazonaws.com/alexa.maxi80.com/assets/jingle.m4a'
+};
+
 let fr = {
     card: {
         title: 'My Radio',
